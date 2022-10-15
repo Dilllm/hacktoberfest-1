@@ -26,6 +26,7 @@ word_list = [
 'buxom', 
 'buzzard', 
 'buzzing', 
+'buzzer', 
 'buzzwords', 
 'caliph', 
 'cobweb', 
